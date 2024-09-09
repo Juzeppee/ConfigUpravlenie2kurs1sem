@@ -56,3 +56,11 @@ echo "$border"
 
 ![image](https://github.com/user-attachments/assets/e3a3eb6b-344b-4e4e-8609-ca0d06240e0e)
 
+## Задача 5
+```
+chmod +x reg
+./reg banner
+```
+![image](https://github.com/user-attachments/assets/1802518b-4209-47f1-abbf-f89920483688)
+
+
