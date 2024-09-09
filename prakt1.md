@@ -53,5 +53,6 @@ echo "$border"
 
 ## Задача 4
 `grep -oE '\b[a-zA-Z_][a-zA-Z0-9_]*\b' hello.c | grep -vE '\b(int|void|return|if|else|for|while|include|stdio)\b' | sort | uniq`
+
 ![image](https://github.com/user-attachments/assets/e3a3eb6b-344b-4e4e-8609-ca0d06240e0e)
 
