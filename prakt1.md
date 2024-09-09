@@ -49,3 +49,4 @@ echo "| $text |"
 
 echo "$border"
 ```  
+![image](https://github.com/user-attachments/assets/fcd7f1b3-0ff9-4910-b739-76a36a040c64)
