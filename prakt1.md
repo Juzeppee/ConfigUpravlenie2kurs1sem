@@ -69,7 +69,7 @@ chmod +x reg
 chmod +x check_comment.sh
 ./check_comment.sh
 ```
-### code is presented in the file bash/check_comment.sh 
+
 
 ![image](https://github.com/user-attachments/assets/c918cf37-bf57-4abe-bbd6-117707fc5728)
 
@@ -79,7 +79,7 @@ chmod +x check_comment.sh
 chmod +x find_duplicates.sh
 ./find_duplicates.sh /Users/aslav/Documents/cdr
 ```
-### code is presented in the file bash/find_duplicates.sh
+
 
 ![image](https://github.com/user-attachments/assets/c8ed545c-51e1-4e1c-9e56-4503de66cc16)
 
@@ -88,10 +88,8 @@ chmod +x find_duplicates.sh
 ```
 go run archiver.go /Users/aslav/Documents/cdr  .log
 ```
-### code is presented in the file code/archiver.go
 
 ![image](https://github.com/user-attachments/assets/d15b4987-fe32-4ea5-ac9c-5a5d67e9696d)
-
 
 ## Задача 9
 ```
@@ -99,7 +97,6 @@ cd code
 go run replacer.go /Users/aslav/Desktop/RTU_MIREA_2COURCE/КонфигУправ/1Pract/trash/testFor8.txt testFor8output.txt
 
 ```
-### code is presented in the file code/replacer.go
 
 ![image](https://github.com/user-attachments/assets/4b9bfddc-0598-4482-9ba2-f97c42106022)
 ![image](https://github.com/user-attachments/assets/da1e8d72-7a7d-43ad-88a4-0bbc3431533d)
@@ -110,7 +107,6 @@ go run replacer.go /Users/aslav/Desktop/RTU_MIREA_2COURCE/КонфигУправ
 cd code
 go run dirReader.go /Users/aslav/Downloads 
 ```
-### code is presented in the file code/dirReader.go
 
 ![image](https://github.com/user-attachments/assets/70b3eb23-37cf-4145-92b7-fa68306c7a28)
 
