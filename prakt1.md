@@ -63,4 +63,41 @@ chmod +x reg
 ```
 ![image](https://github.com/user-attachments/assets/1802518b-4209-47f1-abbf-f89920483688)
 
+## Задача 7
+```
+chmod +x find_duplicates.sh
+./find_duplicates.sh /Users/aslav/Documents/cdr
+```
+### code is presented in the file bash/find_duplicates.sh
+
+![7quest.png](photos/7quest.png)
+
+## Задача 8
+```
+go run archiver.go /Users/aslav/Documents/cdr  .log
+```
+### code is presented in the file code/archiver.go
+
+![8quest.png](photos/8quest.png)
+
+## Задача 9
+```
+cd code
+go run replacer.go /Users/aslav/Desktop/RTU_MIREA_2COURCE/КонфигУправ/1Pract/trash/testFor8.txt testFor8output.txt
+
+```
+### code is presented in the file code/replacer.go
+
+![9questTerminal.png](photos/9questTerminal.png)
+![9questFile.png](photos/9questFile.png)
+
+## Задача 10
+```
+cd code
+go run dirReader.go /Users/aslav/Downloads 
+```
+### code is presented in the file code/dirReader.go
+
+![10quest.png](photos/10quest.png)
+
 
