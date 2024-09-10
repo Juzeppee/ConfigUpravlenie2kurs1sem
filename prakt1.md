@@ -63,6 +63,16 @@ chmod +x reg
 ```
 ![image](https://github.com/user-attachments/assets/1802518b-4209-47f1-abbf-f89920483688)
 
+## Задача 6
+```
+chmod +x check_comment.sh
+./check_comment.sh
+```
+### code is presented in the file bash/check_comment.sh 
+
+![image](https://github.com/user-attachments/assets/c918cf37-bf57-4abe-bbd6-117707fc5728)
+
+
 ## Задача 7
 ```
 chmod +x find_duplicates.sh
@@ -70,7 +80,8 @@ chmod +x find_duplicates.sh
 ```
 ### code is presented in the file bash/find_duplicates.sh
 
-![7quest.png](photos/7quest.png)
+![image](https://github.com/user-attachments/assets/c8ed545c-51e1-4e1c-9e56-4503de66cc16)
+
 
 ## Задача 8
 ```
@@ -78,7 +89,8 @@ go run archiver.go /Users/aslav/Documents/cdr  .log
 ```
 ### code is presented in the file code/archiver.go
 
-![8quest.png](photos/8quest.png)
+![image](https://github.com/user-attachments/assets/d15b4987-fe32-4ea5-ac9c-5a5d67e9696d)
+
 
 ## Задача 9
 ```
@@ -88,8 +100,9 @@ go run replacer.go /Users/aslav/Desktop/RTU_MIREA_2COURCE/КонфигУправ
 ```
 ### code is presented in the file code/replacer.go
 
-![9questTerminal.png](photos/9questTerminal.png)
-![9questFile.png](photos/9questFile.png)
+![image](https://github.com/user-attachments/assets/4b9bfddc-0598-4482-9ba2-f97c42106022)
+![image](https://github.com/user-attachments/assets/da1e8d72-7a7d-43ad-88a4-0bbc3431533d)
+
 
 ## Задача 10
 ```
@@ -98,6 +111,7 @@ go run dirReader.go /Users/aslav/Downloads
 ```
 ### code is presented in the file code/dirReader.go
 
-![10quest.png](photos/10quest.png)
+![image](https://github.com/user-attachments/assets/70b3eb23-37cf-4145-92b7-fa68306c7a28)
+
 
 
